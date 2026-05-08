@@ -1,6 +1,8 @@
 # Word Ladder
 This C++ application solves and implements the word ladder game invented by Lewis Carroll in the 19th century. A word ladder puzzle begins with two words, and to solve the puzzle one must find a chain of other words to link the two, in which two adjacent words differ by exactly one letter.
 
+<img width="150" height="345" alt="wordladder" src="https://github.com/user-attachments/assets/626299b6-46c9-4a92-a167-e2d6f15d0cb2" />
+
 ## Description
 
 The program provides 3 main game modes: automatic mode, playing mode and analytics mode.
