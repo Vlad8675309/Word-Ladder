@@ -1,0 +1,429 @@
+<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" FontFamily="Segoe UI" FontSize="12">
+  <FlowDocument.Tag><![CDATA[{
+  "timestamp": "2025-05-24 16:24:42",
+  "files": {
+    "C:\\Users\\matei\\.Facultate\\OOP\\WordLadder\\WordLadder\\WordLadder.vcxproj": {
+      "before": "7VlfT+NGEL/nSv0CfbIsToEH4kAoHMXxiUu4KGoCiPDnpdJp40yS7dlea3fNQXv9hP1SHXvX6zg4BxEtXBF5iOTd2dnZn2d+M7P++6c3b9z3N2FgXQMXlEUte6vesC2IfDam0bRlJ3Ky+c5+7/34g3vK2e/gS6sDE5IE8pzwKUjRsj8kNBjbFmqJ8GkmZfyL4wh/BiER9ZD6nAk2kXWfhc4YriFgMXAnFKN0mbPdaDRt1G5Zbk9C2OUsia0+GUHQsvWGbRZN6DThRKKBQgmjeNWs1Yv8IBlDy+7AKJl+vaJRcztfgWtKqrxMxnXKg6kp6c89DYicMB56mRLXMc9KAgcUHlXL7zHuDAIgAu4xT0s9h4EKvZvdncdihyr+E+S+ZdqDcVvRONcxHqocFh0AXVnelpy2G7ARCQo3vWxrP7lUEeZt7dUbrnNnWHvVr3D7hfGxcrp0pevkQ1pCq+smdOz9Cbv+7sifkM39vcbu5s7u3mSTjN41Nhs/T/a3fWg29oH8ZVw1W6PVnDEmj0kIIiY+eFe4Z5+Mx8BdpzyjxTEIxuyLUEGfh4I5UiM90jdFUjWZHQViOurDmHFp6VO17LX1y7amllMiZxu/DQyDtOO4rsmnHiP2wracqjeBETmmKVm07Nraeik+N76urefWb9RardocT9TsnHhKS/IQKJPH+W0M3mEcB9TPeGkhSrNpDd2FgGyXPh1xwikIT/IEXOfuuF6QG3jOWCBAetdbO80iivJRLdyeEU58CXyIkhcRReJG3aXRpdgj6MXrsFaBrcRgTwfcBCPrX0PuasYCQAimnIQnsaQh/SN7lfr1LJ1+VuANMz8d6C/HW5Hwnw62l+KrvdUIukzManEpQR7dSIjSWhMJS2KNqVMlZtdso0x2PjWUFg+R7WCsKPlhK3KOG84Aq1V7JZYrJYfMJkxid/FAIudp0uxQvpiu5rJNPUGxPG/NcS3cUCHFOmaqlfXUNkzK6jOfBJiPOkSSPH+Y9PggaB8D1EI6eIXK9CtLCo6MiV5hWg5T7lEvD6g8zkq8lob+gKStsgnatNnAapdGWSmrpOdoY7XKNne1dtBmYUwD0APIZ1eER0jD/bQ197J/LDZLg6rgQdFhp9+egf9ZV0jm0QicckD+90EIxgvbhXfVO25uH3zqHH246B58ap8cD0/6Rwdv15fIb6SdQrUms1Vao2N3TiIfBljyapMWR3Wt5iye2+3T6HOBwTAZDW8FAu6hAoFloesUQ2bLLkSAtxCqmu+p7dM2Q++9dDo3wuypOskCoPmc98i3nsdNdmlRK3qXR733j0nkpwfNvCM9BfqLPnTllEGsF0lOMdn7uVje+1RMmEXGrVThaR6NwDLfUF52/D/3sqOIjAJonww6h+cfWZBew2msq2YMKLqDgTOYAMf7O9NmVkyYRUtdVkG/dFopcJ2n8Oi5jueZWeyVvzRnPgF/lfL+InuvlrVy7vnO2euVt74/3ioSM7qc8cLiK8NhMGWcylko6n4c56VbtWxIaHS/1AClBhAl85Iq3Apbii8lBSHqDx+Vps1Kht2R7HISz+r3CBm7jNxdq1a7KJDq+1Fum+6rVZ2rPwCZqwJ9IVzd95vrbe8f",
+      "after": "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"
+    }
+  }
+}]]></FlowDocument.Tag>
+  <Section Margin="0,24" TextAlignment="Center">
+    <Paragraph FontSize="24" FontWeight="Bold" Margin="12,0">
+      <LineBreak />
+      <Span Foreground="Gray">Qt Visual Studio Tools</Span>
+    </Paragraph>
+    <Paragraph FontSize="42" Margin="12,0" FontWeight="Bold">
+      <Span TextDecorations="Underline">Project Format Conversion</Span>
+    </Paragraph>
+    <Paragraph Margin="12,8" FontSize="18">
+      <Span>Report generated on 2025-05-24 16:24:42</Span>
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Files</Span>
+    </Paragraph>
+    <Paragraph Margin="24,12,0,0">
+      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[C:\Users\matei\.Facultate\OOP\WordLadder\WordLadder\WordLadder.vcxproj]]></Span>
+      <LineBreak />
+      <Hyperlink NavigateUri="file://C:\Users\matei\.Facultate\OOP\WordLadder\WordLadder\WordLadder.vcxproj?before">[Before]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\matei\.Facultate\OOP\WordLadder\WordLadder\WordLadder.vcxproj?after">[After]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\matei\.Facultate\OOP\WordLadder\WordLadder\WordLadder.vcxproj?diff&amp;before&amp;after">
+                        [Diff before/after]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\matei\.Facultate\OOP\WordLadder\WordLadder\WordLadder.vcxproj?diff&amp;before&amp;current">
+                        [Diff before/current]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\matei\.Facultate\OOP\WordLadder\WordLadder\WordLadder.vcxproj?diff&amp;after&amp;current">
+                        [Diff after/current]
+                    </Hyperlink>
+      <LineBreak />
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Changes</Span>
+    </Paragraph>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Enabling multi-processor compilation]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\matei\.Facultate\OOP\WordLadder\WordLadder\WordLadder.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Project format version]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\matei\.Facultate\OOP\WordLadder\WordLadder\WordLadder.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Keyword>QtVS_v304</Keyword>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Fallback for QTMSBUILD environment variable]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\matei\.Facultate\OOP\WordLadder\WordLadder\WordLadder.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtMsBuild Condition="'$(QtMsBuild)'=='' OR !Exists('$(QtMsBuild)\qt.targets')">$(MSBuildProjectDirectory)\QtMsBuild</QtMsBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Default Qt properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\matei\.Facultate\OOP\WordLadder\WordLadder\WordLadder.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt_defaults.props" Condition="Exists('$(QtMsBuild)\qt_defaults.props')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt build settings]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\matei\.Facultate\OOP\WordLadder\WordLadder\WordLadder.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Warn if Qt/MSBuild is not found]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\matei\.Facultate\OOP\WordLadder\WordLadder\WordLadder.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Target Name="QtMsBuildNotFound" BeforeTargets="CustomBuild;ClCompile" Condition="!Exists('$(QtMsBuild)\qt.targets') OR !Exists('$(QtMsBuild)\Qt.props')">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Message Importance="High" Text="QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly." />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  </Target>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt property sheet]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\matei\.Facultate\OOP\WordLadder\WordLadder\WordLadder.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt targets]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\matei\.Facultate\OOP\WordLadder\WordLadder\WordLadder.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt.targets" Condition="Exists('$(QtMsBuild)\qt.targets')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+  </Section>
+  <Section>
+    <Paragraph />
+  </Section>
+</FlowDocument>
+<!--FVv+jNgsA8wo73s99ij+L5XtrIHuf6JyWlfuzzm/60c=-->
